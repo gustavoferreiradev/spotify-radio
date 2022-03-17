@@ -19,7 +19,7 @@ Marque esse projeto com uma estrela 🌟
   - [ ] Dado um usuário desconectado, não deve quebrar a API
   - [ ] Mesmo que vários comandos sejam desparados ao mesmo tempo, não deve quebrar a API
   - [x] Caso aconteça um erro inesperado, a API deve continuar funcionando
-  - [x] O projeto precisa ser executado em ambientes Linux, Mac e Windows
+  - [] O projeto precisa ser executado em ambientes Linux, Mac e Windows
 
 - Web App
   - Client
